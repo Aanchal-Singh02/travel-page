@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.br{
+    border-radius: 10px;
+}
+
+#custom-nav-link-color1{
+    color: #323f4b !important;
+    font-family: "Roboto";
+}
+
+#custom-nav-link-color2{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+#custom-nav-link-color3{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-nav-link-color4{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.travel-logo{
+    width: 5rem;
+    height: 5rem;
+}
+#bg{
+    background-color: white !important;
+}
+.banner-section-bg-container{
+    height: 100vh;
+    background-image: url("https://watermark.lovepik.com/photo/20211118/large/lovepik-map-background-of-travel-plan-picture_500134336.jpg");
+    background-size: cover;
+}
+.banner-heading{
+    color:	#FFFDD0;
+    font-family:"Roboto";
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.banner-para{
+    color: 	#FFFDD0;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 400;
+
+}
+
+.custom-button{
+    width: 120px;
+    height: 40px;
+    font-size: 11px;
+    color: white;
+    background-color: #d0b200;
+    border: none;
+    border-radius: 8px;
+    margin-right: 8px;
+}
+.bor{
+    border-style: solid;
+}
+.custom-button1{
+    width: 120px;
+    height: 40px;
+    color: white;
+    /*background-color: transparent;*/
+    border-color: #d0b200;
+    color: #d0b200;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 8px;
+
+}
+.colorr{
+    color: brown !important;
+}
+.why-choose-section{
+    background-color: #f9fbfe;
+}
+.single-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #e5eaf4;
+}
+.single-image{
+    height: 100px;
+    width: 90px;
+}
+
+.explore-section{
+    background-color: white;
+}
+.explore-section-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.explore-item-image{
+    border-radius: 15px;
+}
+.card-title{
+    color: gray;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 20px;
+}
+.explore-link{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.container2 {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5rem;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.explore-plan-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.explore-plan-section-description, p {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+button, select {
+    text-transform: none;
+}
+
+.number3 {
+    margin-top: 5rem;
+}
+
+.gift-section {
+    margin-top: 5rem;
+    background-color: hwb(40 62% 2%);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.image-fix {
+   font-size: 15rem;
+}
+
+.follow-us {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    
+}
+.gmail {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+   
+}
+
+.contact-section {
+    background-color:black;
+}
+
